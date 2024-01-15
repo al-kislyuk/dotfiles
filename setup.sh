@@ -12,7 +12,7 @@ confirm() {
     esac
 }
 
-for file in .[!.]* # TODO: maybe add ""?
+for file in .[!.]* 
 do
     if [[ "$file" = ".git" || "$file" = ".gitmodules" ]]; then
         continue

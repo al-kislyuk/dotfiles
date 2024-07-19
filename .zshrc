@@ -5,8 +5,7 @@ eval "$(pyenv init -)"
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # informative git prompt for zsh
-source /opt/homebrew/opt/zsh-git-prompt/zshrc.sh
-PROMPT='%B%n@%m:%~%b$(git_super_status)$ '
+PROMPT='%B%n@%m:%~%b$ '
 
 # aliases
 # common
@@ -27,3 +26,4 @@ alias gti='git'
 # vi keybinding
 # bindkey -v
 # bindkey -v '^?' backward-delete-char
+

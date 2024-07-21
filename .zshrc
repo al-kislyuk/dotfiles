@@ -5,7 +5,7 @@ eval "$(pyenv init -)"
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # informative git prompt for zsh
-PROMPT='%B%n@%m:%~%b$ '
+PROMPT='%B%n@%m:%1~%b$ '
 
 # aliases
 # common

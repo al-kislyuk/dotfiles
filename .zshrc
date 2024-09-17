@@ -17,7 +17,7 @@ alias ll='ls -alF'
 alias ls='ls --color=auto'
 alias mc='. /usr/libexec/mc/mc-wrapper.sh'
 alias vi='vim'
-alias vs='code'
+alias vs='codium'
 alias py='python3'
 
 # mangled commands

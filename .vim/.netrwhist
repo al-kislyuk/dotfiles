@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
-let g:netrw_dirhist_5='/Users/absenthe/.ipython'
-let g:netrw_dirhist_4='/Users/absenthe/work/lp_full/src/msg_server.simple/lib'
-let g:netrw_dirhist_3='/private/etc/ssh/ssh_config.d'
-let g:netrw_dirhist_2='/Users/absenthe/Work/analytics/alex_python'
-let g:netrw_dirhist_1='/Users/absenthe/Desktop'

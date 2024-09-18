@@ -14,7 +14,7 @@ confirm() {
 
 for file in .[!.]* 
 do
-    if [[ "$file" = ".git" || "$file" = ".gitmodules" ]]; then
+    if [[ "$file" = ".git" || "$file" = ".gitmodules" || "$file" = ".gitignore" ]]; then
         continue
     fi
 

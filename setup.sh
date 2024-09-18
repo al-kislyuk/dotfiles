@@ -22,7 +22,7 @@ do
     new_file="$PWD/$file"
     create_symlink=true
     if [ -e "$original_file" ]; then
-        if confirm "Do you want to replace $original_file file with $new_file?"; then 
+        if confirm "Do you want to replace $original_file file with $new_file"; then 
             rm -r "$original_file" 
         else
             create_symlink=false

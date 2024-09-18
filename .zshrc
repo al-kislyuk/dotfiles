@@ -2,7 +2,7 @@
 eval "$(pyenv init -)"
 
 # zsh autosuggestions
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # informative git prompt for zsh
 PROMPT='%B%n@%m:%1~%b >'

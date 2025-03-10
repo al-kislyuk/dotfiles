@@ -19,7 +19,7 @@ alias mc='. /usr/libexec/mc/mc-wrapper.sh'
 alias vi='vim'
 alias vs='codium'
 alias py='python3'
-alias pcharm='pycharm-ce'
+alias pyc='pycharm-ce'
 
 # mangled commands
 alias gti='git'

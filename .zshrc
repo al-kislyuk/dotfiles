@@ -20,6 +20,8 @@ alias vi='vim'
 alias vs='codium'
 alias py='python3'
 alias pyc='pycharm-ce'
+alias svnd='svn diff --diff-cmd colordiff'
+alias svns='svn status -q'
 
 # mangled commands
 alias gti='git'

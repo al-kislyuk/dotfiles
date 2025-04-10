@@ -23,6 +23,7 @@ alias pyc='pycharm-ce'
 alias svnd='svn diff --diff-cmd colordiff'
 alias svns='svn status -q'
 alias svnu='svn update'
+alias svnr='svn revert -R'
 
 # mangled commands
 alias gti='git'

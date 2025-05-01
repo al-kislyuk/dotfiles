@@ -24,9 +24,11 @@ alias svnd='svn diff --diff-cmd colordiff'
 alias svns='svn status -q'
 alias svnu='svn update'
 alias svnr='svn revert -R'
+alias svnu='svn update'
 
 # mangled commands
 alias gti='git'
+alias snv='svn'
 
 # vi keybinding
 # bindkey -v
